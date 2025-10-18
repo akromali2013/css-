@@ -111,3 +111,8 @@ button:active{
     border-radius: 15px;
     padding-left: 10px;
 }
+
+button{
+    width: 100px;
+    background-color: aqua;
+}
